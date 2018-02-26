@@ -13,6 +13,15 @@ means you can copy, modify, distribute, and use the photos for free
 - Full Muzei Live Wallpaper support
 - Full Behang support
 
+# Download
+
+<a href="https://f-droid.org/packages/org.tilelessmap.app/" target="_blank">
+<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.alexcruz.papuhwalls">
+<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a>
+
+Plans are to add Papuh to the amazon app store and other stores as well
+
 # License
 
 Based on Paperboard by Jahir Fiquitiva, licensed under CreativeCommons Attribution-ShareAlike license
@@ -20,18 +29,6 @@ Based on Paperboard by Jahir Fiquitiva, licensed under CreativeCommons Attributi
 https://github.com/jahirfiquitiva/PaperBoard-Final
 
 http://creativecommons.org/licenses/by-sa/4.0/
-
-
-# Play Store
-
-Currently, Papuh is only available via the playstore but plans to add it to the amazon app store and other
-stores have been made.
-
-<a href="https://play.google.com/store/apps/details?id=com.alexcruz.papuhwalls">
-  <img alt="Get it on Google Play"
-       height="80"
-       src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
 
 # Contributions
 
