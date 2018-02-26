@@ -15,7 +15,7 @@ means you can copy, modify, distribute, and use the photos for free
 
 # Download
 
-<a href="https://f-droid.org/packages/org.tilelessmap.app/" target="_blank">
+<a href="https://f-droid.org/packages/com.alexcruz.papuhwalls/" target="_blank">
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.alexcruz.papuhwalls">
 <img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a>
